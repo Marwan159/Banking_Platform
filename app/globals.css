@@ -167,7 +167,7 @@
   }
 
   .profile-img {
-    @apply flex-center absolute -top-8 size-24 rounded-full bg-gray-100 border-8 border-white p-2 shadow-profile;
+    @apply flex-center absolute -top-8 size-24 rounded-full bg-orange-800 border-8 border-white p-2 shadow-profile;
   }
 
   .profile-details {
@@ -179,7 +179,7 @@
   }
 
   .profile-email {
-    @apply text-16 font-normal text-gray-600;
+    @apply text-16 font-normal text-gray-500;
   }
 
   .banks {
